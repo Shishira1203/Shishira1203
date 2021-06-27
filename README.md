@@ -1,4 +1,4 @@
-### Hi, I'm Shishira 👋
+### Hi there, I'm Shishira 👋
 ---
 
 #### I'm a Full-Stack Developer based in Bangalore, Karnataka.
